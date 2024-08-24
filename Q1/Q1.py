@@ -1,10 +1,4 @@
-
-####################################################
-####    Assignment-2                           #####
 ####    Unsupervised Learning                  #####
-####    GANGARAM ARVIND SUDEWAD  (20CS30017)   #####
-####    CHENNA KESHAVA REDDY     (20CS10014)   #####
-####################################################
 
 # importing required libraries
 import numpy as np
