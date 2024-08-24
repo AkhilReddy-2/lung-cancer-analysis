@@ -1,9 +1,4 @@
-####################################################
-####    Assignment-2                           #####
 ####    Supervised Learning                    #####
-####    GANGARAM ARVIND SUDEWAD  (20CS30017)   #####
-####    CHENNA KESHAVA REDDY     (20CS10014)   #####
-####################################################
 
 import numpy
 import pandas
